@@ -45,7 +45,7 @@ export default function Footer() {
 
                         {/* Gmail */}
                         <a
-                            href="mailto:al202300110tidsm@gmail.com"
+                            href="mailto:al202300110tidsm@outlook.com"
                             aria-label="Gmail"
                             title="Gmail"
                         >
@@ -79,9 +79,9 @@ export default function Footer() {
 
                 <div className="footer-column">
                     <h3>{t('footer.contactTitle')}</h3>
-                    <a href="mailto:al202300110tidsm@gmail.com" className="footer-contact-link">
+                    <a href="mailto:al202300110tidsm@goutlook.com" className="footer-contact-link">
                         <Mail size={15} />
-                        <span>al202300110tidsm@gmail.com</span>
+                        <span>al202300110tidsm@outlook.com</span>
                     </a>
                     <a href="https://wa.me/526671493714" target="_blank" rel="noopener noreferrer" className="footer-contact-link">
                         <Phone size={15} />
